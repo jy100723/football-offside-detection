@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tensorflow
+torch torchvision torchaudio
+scikit-image
+scikit-learn
+pandas
+matplotlib
+MoviePy
